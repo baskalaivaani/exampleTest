@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-26T15:34:34 IST" name="Default suite" finished-at="2022-10-26T15:34:41 IST" duration-ms="6981">
+  <suite started-at="2022-10-27T14:47:04 IST" name="exampleTest" finished-at="2022-10-27T14:47:12 IST" duration-ms="7863">
     <groups>
     </groups>
-    <test started-at="2022-10-26T15:34:34 IST" name="Default test" finished-at="2022-10-26T15:34:41 IST" duration-ms="6981">
+    <test started-at="2022-10-27T14:47:04 IST" name="sample" finished-at="2022-10-27T14:47:12 IST" duration-ms="7863">
       <class name="examplePackage.NewTest">
-        <test-method signature="openGoogle()[pri:0, instance:examplePackage.NewTest@4d5b6aac]" started-at="2022-10-26T15:34:34 IST" name="openGoogle" finished-at="2022-10-26T15:34:41 IST" duration-ms="6913" status="PASS">
+        <test-method signature="openGoogle()[pri:0, instance:examplePackage.NewTest@3fb1549b]" started-at="2022-10-27T14:47:04 IST" name="openGoogle" finished-at="2022-10-27T14:47:12 IST" duration-ms="7767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openGoogle -->
       </class> <!-- examplePackage.NewTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- sample -->
+  </suite> <!-- exampleTest -->
 </testng-results>
