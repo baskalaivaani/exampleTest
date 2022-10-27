@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="exampleTest" verbose="1" >
+  <test name="sample" >
+    <classes>
+      <class name="examplePackage.NewTest"/>
+    </classes>
+ </test>
+</suite>
