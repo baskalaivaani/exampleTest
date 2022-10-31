@@ -7,9 +7,8 @@ import io.opentelemetry.exporter.logging.SystemOutLogExporter;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class NewTest {
-	
-	
+public class newTest {
+	public static void main(String[] args) {	
   @Test
   public void openGoogle() {
 	  System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
@@ -19,4 +18,5 @@ public class NewTest {
 	  System.out.println("title is " + title);
 	  driver.quit();
   }
+}
 }

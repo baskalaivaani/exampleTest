@@ -2,7 +2,7 @@
 <suite name="exampleTest" verbose="1" >
   <test name="sample" >
     <classes>
-      <class name="examplePackage.NewTest"/>
+      <class name="examplePackage.newTest"/>
     </classes>
  </test>
 </suite>
